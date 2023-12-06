@@ -1,0 +1,8 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "2023-12-06_06-12-55")(type "KiCad")(uri "${KIPRJMOD}/components/2023-12-06_06-12-55.kicad_sym")(options "")(descr ""))
+  (lib (name "2023-12-06_06-13-53")(type "KiCad")(uri "${KIPRJMOD}/components/2023-12-06_06-13-53.kicad_sym")(options "")(descr ""))
+  (lib (name "2023-12-06_06-14-19")(type "KiCad")(uri "${KIPRJMOD}/components/2023-12-06_06-14-19.kicad_sym")(options "")(descr ""))
+  (lib (name "ABM8-28.63636MHZ-B2-T")(type "KiCad")(uri "${KIPRJMOD}/components/ABM8-28.63636MHZ-B2-T.kicad_sym")(options "")(descr ""))
+  (lib (name "PJRAN1X1U04X")(type "KiCad")(uri "${KIPRJMOD}/components/PJRAN1X1U04X.kicad_sym")(options "")(descr ""))
+)
