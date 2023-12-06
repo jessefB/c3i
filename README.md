@@ -1,5 +1,5 @@
 # c3i
-Composite to CSI2 Camera Interface
+Composite to CSI2 Camera Interface (CCCI or c3i)
 
 Add a readily-available composite video camera to Raspberry Pi over a MIPI CSI2 camera interface (sold inexpensivly as 'backup-cameras')
 
