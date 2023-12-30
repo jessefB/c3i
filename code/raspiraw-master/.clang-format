@@ -1,0 +1,10 @@
+# One way to run clang-format is `clang-format-9 -i --style=file *.{h,c} tools/double.c`
+BasedOnStyle: LLVM
+IndentWidth: 8
+UseTab: Always
+BreakBeforeBraces: Allman
+AllowShortIfStatementsOnASingleLine: false
+IndentCaseLabels: false
+AlignConsecutiveMacros: true
+ColumnLimit: 120
+Cpp11BracedListStyle: false
